@@ -1,7 +1,7 @@
 ![Lokalizi Logo](https://github.com/viproject/lokalizi-help/blob/main/LokaliziLogo300.png)
 
 
-Lokalizi is a fast-growing application for macOS, designed to facilitate the localization of applications.
+Lokalizi is a fast-growing application for macOS and iPadOS, designed to facilitate the localization of applications.
 
 Lokalizi app is created to do the following:
 * Upload some content for translation or enter it manually <sup>[1]</sup>
